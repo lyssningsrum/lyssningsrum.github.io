@@ -1,3 +1,7 @@
 
 gems:
   - jekyll-seo-tag
+  
+future: true
+
+title: Lyssningsrum
